@@ -1,3 +1,10 @@
+Name: YANDRAPU JYOTHIKA
+Domain: Data Analytics
+Organization: CodtechIT Solutions Private Limited 
+Duration: 6 Weeks
+Internship Period:17 May 2026 - 28 June 2026
+Intern ID: CITS880
+
 # Sales Trend Visualization 
 
 ## Project Overview

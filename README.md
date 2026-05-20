@@ -1,7 +1,11 @@
 Name: YANDRAPU JYOTHIKA
+
 Domain: Data Analytics
+
 Organization: CodtechIT Solutions Private Limited 
+
 Internship Period:17 May 2026 - 28 June 2026
+
 Intern ID: CITS880
 
 # Sales Trend Visualization 
@@ -124,11 +128,10 @@ The project generates:
 - Future Sales Predictions
 
 Screenshots of outputs are included in the `screenshots` folder.
+# Dashboard
+- Local URL: http://localhost:8501
 
-
-# Author
-
-Yandrapu Jyothika
+- Network URL: http://192.168.100.70:8501
 
 # Conclusion
 
